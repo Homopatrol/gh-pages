@@ -17,12 +17,12 @@ import {
         <SideNavItems>
         <SideNavLink
             renderIcon={Home}
-            href="/homepage">
+            href="/gh-pages/homepage">
               Home
           </SideNavLink>
         <SideNavLink
             renderIcon={UserProfile}
-            href="/about">
+            href="/gh-pages/about">
               About
           </SideNavLink>
           <SideNavDivider />
