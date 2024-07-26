@@ -30,7 +30,7 @@ function App() {
           <Theme theme="g100">
             <Header aria-label="Header for Our Skeleton App">
               <HeaderName
-                href="/"
+                href="/gh-pages/homepage/"
                 prefix="Homoapatrol"
               >
                 Panda
@@ -44,13 +44,13 @@ function App() {
          
             <Routes>
           
-              <Route path="/" element={<Navigate to="/homepage" />} />
+              <Route path="/" element={<Navigate to="/gh-pages/homepage" />} />
 
-              <Route path="/about" element={<AboutPage />} />
+              <Route path="/gh-pages/about" element={<AboutPage />} />
 
-              <Route path="/upload"  />
+              <Route path="/gh-pages/upload"  />
 
-              <Route path="/homepage" element={<HomePage />} />
+              <Route path="/gh-pages/homepage" element={<HomePage />} />
 
          
               
