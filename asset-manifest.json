@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.ba099f64.css",
-    "main.js": "/gh-pages/static/js/main.d58f071b.js",
+    "main.css": "/gh-pages/static/css/main.adbe0425.css",
+    "main.js": "/gh-pages/static/js/main.fabe6477.js",
     "static/js/453.ed3810f9.chunk.js": "/gh-pages/static/js/453.ed3810f9.chunk.js",
     "static/media/aboutme_1.png": "/gh-pages/static/media/aboutme_1.74024bbb765ed5265fe7.png",
     "static/media/aboutme_2.jpeg": "/gh-pages/static/media/aboutme_2.60e65216b9da5f8f1d6c.jpeg",
@@ -191,12 +191,12 @@
     "static/media/IBMPlexMono-Light-Latin3.woff2": "/gh-pages/static/media/IBMPlexMono-Light-Latin3.8a014da16bb5df1e9830.woff2",
     "static/media/IBMPlexMono-Regular-Latin3.woff2": "/gh-pages/static/media/IBMPlexMono-Regular-Latin3.cacfd1d7dbd14067b970.woff2",
     "index.html": "/gh-pages/index.html",
-    "main.ba099f64.css.map": "/gh-pages/static/css/main.ba099f64.css.map",
-    "main.d58f071b.js.map": "/gh-pages/static/js/main.d58f071b.js.map",
+    "main.adbe0425.css.map": "/gh-pages/static/css/main.adbe0425.css.map",
+    "main.fabe6477.js.map": "/gh-pages/static/js/main.fabe6477.js.map",
     "453.ed3810f9.chunk.js.map": "/gh-pages/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba099f64.css",
-    "static/js/main.d58f071b.js"
+    "static/css/main.adbe0425.css",
+    "static/js/main.fabe6477.js"
   ]
 }
